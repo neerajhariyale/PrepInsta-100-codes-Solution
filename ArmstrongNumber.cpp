@@ -13,7 +13,7 @@ int lengthOfN(int n)
     }
     return count;
 }
-
+//main function
 int main()
 {
     int n, copy, rem = 0, sum = 0;
