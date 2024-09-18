@@ -19,7 +19,7 @@ void smallestAndLargestElement(int arr[] , int n){
     }
     cout << min << "," << max ;
 }
-
+//main function
 int main(){
 
     int arr[] = {87,8,9,7,4,5,78,45};
