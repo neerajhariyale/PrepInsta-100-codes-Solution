@@ -3,7 +3,7 @@
 using namespace std;
 
 // METHOD 1 -> 
-
+//evenOrOdd function
 void evenOrOdd(int n){
     if(n%2 == 0){
         cout << n << ": is even." << endl;
