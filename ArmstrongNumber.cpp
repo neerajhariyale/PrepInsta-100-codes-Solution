@@ -2,7 +2,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-
+//length function
 int lengthOfN(int n)
 {
     int count = 0;
